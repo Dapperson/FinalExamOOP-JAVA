@@ -1,2 +1,2 @@
-# FinalExamOOP-JAVA
+# FinalExamPBO-JAVA
 Tugas UAS Pemrograman Berorientasi Objek
